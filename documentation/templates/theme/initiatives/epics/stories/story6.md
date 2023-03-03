@@ -2,11 +2,9 @@
 
 Acceptance Criteria:
 
-The order history page displays a list of all past orders, including the date, order number, and total cost.
-Each order in the list is clickable and leads to a detailed view of the order.
-The detailed view of the order includes the list of items purchased, the quantities, the prices, and any discounts applied.
-The order history page can be accessed from the customer account dashboard.
-The order history page is only accessible to authenticated customers.
+* The notification or message must be prominently displayed on the website, so that users can easily see it.
+* The website must have a notification or messaging system that alerts users when new features or updates are available.
+* The notification or message must be accessible to all users, including those with disabilities, and must comply with web accessibility guidelines.
 
 
 # List Stories related to this theme
