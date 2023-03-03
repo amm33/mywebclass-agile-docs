@@ -2,12 +2,11 @@
 
 Acceptance Criteria:
 
-The order history page displays a list of all past orders, including the date, order number, and total cost.
-Each order in the list is clickable and leads to a detailed view of the order.
-The detailed view of the order includes the list of items purchased, the quantities, the prices, and any discounts applied.
-The order history page can be accessed from the customer account dashboard.
-The order history page is only accessible to authenticated customers.
+* The website must meet the Web Content Accessibility Guidelines (WCAG) 2.1 AA level of compliance. This means that the website must adhere to a set of international standards for accessibility that ensure that people with dis
+* The website must have a clear and accessible mechanism for users to provide feedback on accessibility issues and to request assistance if needed.
+abilities can access and use the website.
 
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [As a website developer, I want to perform regular W3C validation checks during development to identify and fix any issues early on.](https://github.com/amm33/mywebclass-agile-docs/blob/8fed0de83f75a66deeb130982524eae4a399f021/documentation/templates/theme/initiatives/epics/stories/story2.md)
+2. [As a website developer, I want to conduct regular performance audits using Lighthouse to identify any areas for optimization and improvement.](https://github.com/amm33/mywebclass-agile-docs/blob/8fed0de83f75a66deeb130982524eae4a399f021/documentation/templates/theme/initiatives/epics/stories/story3.md)
