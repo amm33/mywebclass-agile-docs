@@ -3,8 +3,8 @@
 Create and launch an educational website for teachers on software engineering and advanced technologies
 ## Initiative(s)
 
-* Develop an intuitive user interface and user experience(initiatives/initiative_devops.md)
-* Implement DevOps practices to ensure smooth deployment and continuous integration(initiative/initiative2.md)
+* [Develop an intuitive user interface and user experience](initiatives/initiative_devops.md)
+* [Implement DevOps practices to ensure smooth deployment and continuous integration](initiative/initiative2.md)
 * Ensure compliance with GDPR privacy regulations
 
 * Monitoring to continuously improve the quality of our project
