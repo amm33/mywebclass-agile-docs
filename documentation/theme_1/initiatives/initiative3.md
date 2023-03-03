@@ -1,5 +1,5 @@
 # Initiative: 
-Ensure compliance with GDPR privacy regulations
+[Ensure compliance with GDPR privacy regulations](https://github.com/amm33/mywebclass-agile-docs/blob/b58b6d1398e8e22d46a309b9aaf67af698081add/documentation/templates/theme/initiatives/initiativetemp3.md)
 ## Description
 Ensuring compliance with GDPR privacy regulations involves implementing a range of measures to protect the privacy of personal data and control over their data. 
 This is important not only to comply with legal requirements but also to build trust with users and maintain a positive reputation for the website.
