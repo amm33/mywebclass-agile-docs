@@ -7,6 +7,8 @@ Acceptance Criteria:
 * The analytics tool must be tested thoroughly to ensure that it is tracking data accurately and reliably, and that the data collected is relevant and useful for analysis.
 * Any issues identified during testing must be addressed promptly to ensure that the analytics tool is tracking data accurately and reliably.
 
+# Task 
+[Integrate website analytics tool into the website](https://github.com/amm33/mywebclass-agile-docs/blob/5eb2af515edd1981d73293843809cdfbe099ad92/documentation/templates/theme/initiatives/epics/stories/tasks/task5.md)
 
 # List Stories related to this theme
 1. [As a website owner, I want to track website traffic and user engagement metrics, so that I can measure the performance of my website.](https://github.com/amm33/mywebclass-agile-docs/blob/d735cf843620959bb2e2369cd26d475b107547c1/documentation/templates/theme/initiatives/epics/stories/story4.md)
