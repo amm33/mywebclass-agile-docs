@@ -10,4 +10,4 @@ The order history page is only accessible to authenticated customers.
 
 
 # List Stories related to this theme
-1. [As a website user, I want to be able to easily give and withdraw my consent for the use of cookies and other data collection methods, so that I have control over my personal data.](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [As a website user, I want to be able to easily give and withdraw my consent for the use of cookies and other data collection methods, so that I have control over my personal data.](https://github.com/amm33/mywebclass-agile-docs/blob/2f145f5a43b894c33eff1c5bbb5901898e70c8a9/documentation/templates/theme/initiatives/epics/stories/story14.md)
