@@ -10,4 +10,4 @@ The order history page is only accessible to authenticated customers.
 
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [As a website owner, I want to identify any opportunities for optimization or improvement on my website, such as by analyzing user behavior and identifying areas where people are dropping off or getting stuck](https://github.com/amm33/mywebclass-agile-docs/blob/9c07c94e2ce2b67e171f406a465378257c6007c4/documentation/templates/theme/initiatives/epics/stories/story9.md)
