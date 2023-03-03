@@ -11,7 +11,6 @@ Goals:
 User Stories: 
 * As a website owner, I want to track website traffic and user engagement metrics, so that I can measure the performance of my website.
 * As a web developer, I want to integrate website analytics tools (such as Google Analytics) into the website, so that I can track website performance and user engagement.
-* As a user, I want the website to be accessible on multiple devices (desktop, tablet, mobile) so that I can access it wherever and whenever I need to.
 
 Dependencies: 
 * Availability of website analytics tools: The availability and functionality of the tools used to collect and analyze website metrics can impact the ability to monitor and improve the user experience.
@@ -32,4 +31,3 @@ Priority: High priority
 # List stories related to this theme
 1. As a website owner, I want to track website traffic and user engagement metrics, so that I can measure the performance of my website.
 2. As a web developer, I want to integrate website analytics tools (such as Google Analytics) into the website, so that I can track website performance and user engagement.
-3. As a user, I want the website to be accessible on multiple devices (desktop, tablet, mobile) so that I can access it wherever and whenever I need to.
