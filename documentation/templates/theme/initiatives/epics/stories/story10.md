@@ -7,6 +7,8 @@ Acceptance Criteria:
 * The website owner must provide clear and concise privacy policies, terms of use, and cookie policies to users of the website.
 * The website owner must provide users with the option to opt-in or opt-out of data collection, processing, and storage.
 
+# Task 
+[Review website for GDPR compliance](https://github.com/amm33/mywebclass-agile-docs/blob/5a80d78fa6a0c12d7008da5a4262d60dcefb32ce/documentation/templates/theme/initiatives/epics/stories/tasks/task10.md)
 
 # List Stories related to this theme
 1. [As a website user, I want to be informed about the cookies used on the website and be given the option to accept or reject them.](https://github.com/amm33/mywebclass-agile-docs/blob/b72c3c32f6f370d89589ded031ed7cfe658e6379/documentation/templates/theme/initiatives/epics/stories/story11.md)
