@@ -1,5 +1,6 @@
 # Initiative: 
-Develop an intuitive user interface and user experience
+[Develop an intuitive user interface and user experience](https://github.com/amm33/mywebclass-agile-docs/blob/5206bb90d591ccad4944f7af136f8c47f499d0c1/documentation/templates/theme/initiatives/initiativetemp1.md)
+
 ## Description
 An intuitive user interface ensures that users can easily navigate and interact with the website, while a good user experience ensures that users have a positive impression of the website and are motivated to engage with it.
 ## Epics
