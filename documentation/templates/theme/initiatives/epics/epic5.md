@@ -31,5 +31,5 @@ Business Value:
 Priority: High Priority 
 
 # List stories related to this theme
-1. As a website administrator, I want to integrate Google Analytics tracking code on all website pages, so that we can monitor website performance and user engagement.
-2. As a website owner, I want to identify any opportunities for optimization or improvement on my website, such as by analyzing user behavior and identifying areas where people are dropping off or getting stuck
+1. [As a website administrator, I want to integrate Google Analytics tracking code on all website pages, so that we can monitor website performance and user engagement.](https://github.com/amm33/mywebclass-agile-docs/blob/f33f8c607287438fd60e93a620532d656ed4e3c1/documentation/templates/theme/initiatives/epics/stories/story8.md)
+2. [As a website owner, I want to identify any opportunities for optimization or improvement on my website, such as by analyzing user behavior and identifying areas where people are dropping off or getting stuck](https://github.com/amm33/mywebclass-agile-docs/blob/9c07c94e2ce2b67e171f406a465378257c6007c4/documentation/templates/theme/initiatives/epics/stories/story9.md)
