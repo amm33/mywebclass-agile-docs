@@ -10,4 +10,4 @@ The order history page is only accessible to authenticated customers.
 
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [As a website owner, I want to track user engagement with the modal popups using Google Analytics, so that I can analyze and improve their performance over time.](https://github.com/amm33/mywebclass-agile-docs/blob/ad8aff89a15bf6c647fcce6fe424dc1c52de4c70/documentation/templates/theme/initiatives/epics/stories/story7.md)
