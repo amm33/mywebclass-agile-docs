@@ -9,7 +9,6 @@ Goals:
 * Ensure that the website is user-friendly and provides a positive user experience.
 
 User Stories: 
-* As a developer, I want to review the website code and ensure it meets W3C standards for HTML, CSS, and JavaScript, so that the website can pass the validation tests.
 * As a website owner, I want to ensure that the website is accessible to a wide range of users, including those with disabilities, to promote inclusivity and diversity.
 * As a website developer, I want to perform regular W3C validation checks during development to identify and fix any issues early on.
 * As a website developer, I want to conduct regular performance audits using Lighthouse to identify any areas for optimization and improvement.
@@ -34,8 +33,7 @@ Business Value:
 Priority: High priority (8 out of 10) 
 
 # List stories related to this theme
-1.  [As a developer, I want to review the website code and ensure it meets W3C standards for HTML, CSS, and JavaScript, so that the website can pass the validation tests.](documentation/templates/theme/initiatives/epics/stories/story_template.md)
-2. As a website owner, I want to ensure that the website is accessible to a wide range of users, including those with disabilities, to promote inclusivity and diversity.
+2. [As a website owner, I want to ensure that the website is accessible to a wide range of users, including those with disabilities, to promote inclusivity and diversity.](documentation/templates/theme/initiatives/epics/stories/story_template.md)
 3. As a website developer, I want to perform regular W3C validation checks during development to identify and fix any issues early on.
 4. As a website developer, I want to conduct regular performance audits using Lighthouse to identify any areas for optimization and improvement.
 
