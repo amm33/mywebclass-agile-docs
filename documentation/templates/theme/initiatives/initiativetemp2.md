@@ -29,8 +29,10 @@ Assumptions:
 * The organization has a clear understanding of its business objectives and how DevOps practices can help achieve them  
 
 Risks: 
+* Technical risks: There may be technical challenges in implementing DevOps practices, such as integrating various tools, automating workflows, or ensuring compatibility with existing infrastructure. Mitigation Strategy: Conduct a thorough analysis of existing infrastructure, tools, and processes to identify potential technical challenges and develop a detailed plan for implementing DevOps practices.
 
-Dependencies: [List any dependencies that may impact the initiative]
+Dependencies: 
+* Technology dependencies: The initiative may depend on specific technologies, tools, or platforms, such as containerization, cloud infrastructure, or automation tools, which may require specialized knowledge and expertise.
 
 Team: [Identify the team members and their roles in the initiative]
 
