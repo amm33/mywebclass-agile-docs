@@ -5,7 +5,7 @@ Create and launch an educational website for teachers on software engineering an
 
 * [Develop an intuitive user interface and user experience](initiatives/initiative_devops.md)
 * [Implement DevOps practices to ensure smooth deployment and continuous integration](initiatives/initiative2.md)
-* Ensure compliance with GDPR privacy regulations
+* [Ensure compliance with GDPR privacy regulations](initiatives/initiative3.md)
 
 * Monitoring to continuously improve the quality of our project
   * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
