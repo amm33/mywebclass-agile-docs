@@ -34,7 +34,8 @@ Risks:
 * Technical challenges in developing an intuitive UI/UX design
 * Lack of user testing and feedback leading to a poorly received desgin 
 
-Dependencies: [List any dependencies that may impact the initiative]
+Dependencies:
+* Technology dependencies: The initiative may depend on specific technologies, programming languages, frameworks, or tools to create an intuitive user interface and user experience.
 
 Team: [Identify the team members and their roles in the initiative]
 
