@@ -25,6 +25,6 @@ Business Value: [Specify the business value that will be delivered by the epic]
 Priority: [Assign a priority to the epic]
 
 # List stories related to this theme
-1. As a website owner, I want to review the GDPR guidelines to ensure that the website is fully compliant with all regulations.
-2. As a website user, I want to be informed about the cookies used on the website and be given the option to accept or reject them.
-3. As a website owner, I want to create a privacy policy that outlines how user data is collected, used, and protected on the website.
+1. [As a website owner, I want to review the GDPR guidelines to ensure that the website is fully compliant with all regulations.](https://github.com/amm33/mywebclass-agile-docs/blob/006b831301d9ab1aaaf48a45119961254e479460/documentation/templates/theme/initiatives/epics/stories/story10.md)
+2. [As a website user, I want to be informed about the cookies used on the website and be given the option to accept or reject them.](https://github.com/amm33/mywebclass-agile-docs/blob/006b831301d9ab1aaaf48a45119961254e479460/documentation/templates/theme/initiatives/epics/stories/story11.md)
+3. [As a website owner, I want to create a privacy policy that outlines how user data is collected, used, and protected on the website.](https://github.com/amm33/mywebclass-agile-docs/blob/006b831301d9ab1aaaf48a45119961254e479460/documentation/templates/theme/initiatives/epics/stories/story12.md)
