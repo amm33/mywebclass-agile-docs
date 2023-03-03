@@ -2,11 +2,9 @@
 
 Acceptance Criteria:
 
-The order history page displays a list of all past orders, including the date, order number, and total cost.
-Each order in the list is clickable and leads to a detailed view of the order.
-The detailed view of the order includes the list of items purchased, the quantities, the prices, and any discounts applied.
-The order history page can be accessed from the customer account dashboard.
-The order history page is only accessible to authenticated customers.
+* The website must display a clear and concise cookie banner or pop-up message informing users about the use of cookies on the website.
+* The cookie banner or pop-up message must provide an option for the user to either accept or reject the use of cookies on the website.
+* The cookie banner or pop-up message must provide a link to the website's privacy policy, which should explain what cookies are used for, what data is collected, and how it is used.
 
 
 # List Stories related to this theme
