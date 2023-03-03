@@ -2,12 +2,9 @@
 
 Acceptance Criteria:
 
-The order history page displays a list of all past orders, including the date, order number, and total cost.
-Each order in the list is clickable and leads to a detailed view of the order.
-The detailed view of the order includes the list of items purchased, the quantities, the prices, and any discounts applied.
-The order history page can be accessed from the customer account dashboard.
-The order history page is only accessible to authenticated customers.
-
+* The website must have Google Analytics integration to track website performance and user engagement.
+* The tracking code must be tested thoroughly to ensure that it is tracking data accurately and reliably and that the data collected is relevant and useful for analysis. 
+* The website administrator must have access to the analytics tool and the ability to view and analyze website performance and user engagement metrics.
 
 # List Stories related to this theme
 1. [As a website owner, I want to identify any opportunities for optimization or improvement on my website, such as by analyzing user behavior and identifying areas where people are dropping off or getting stuck](https://github.com/amm33/mywebclass-agile-docs/blob/9c07c94e2ce2b67e171f406a465378257c6007c4/documentation/templates/theme/initiatives/epics/stories/story9.md)
