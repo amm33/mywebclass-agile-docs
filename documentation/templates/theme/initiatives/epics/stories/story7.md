@@ -10,4 +10,4 @@ The order history page is only accessible to authenticated customers.
 
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [As a user, I want to receive a notification or message when there is a new feature or update on the website, so that I can stay informed and take advantage of new functionality.](https://github.com/amm33/mywebclass-agile-docs/blob/39305e1fd9f0da6a17fa53eb9d30448ce34ff6b5/documentation/templates/theme/initiatives/epics/stories/story6.md)
