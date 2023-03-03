@@ -2,11 +2,9 @@
 
 Acceptance Criteria:
 
-The order history page displays a list of all past orders, including the date, order number, and total cost.
-Each order in the list is clickable and leads to a detailed view of the order.
-The detailed view of the order includes the list of items purchased, the quantities, the prices, and any discounts applied.
-The order history page can be accessed from the customer account dashboard.
-The order history page is only accessible to authenticated customers.
+* The website must provide a clear and concise notification to the user about the personal data that is collected and how it is used.
+* The information provided must be written in clear and understandable language, avoiding technical or legal jargon.
+* The website must comply with all relevant data protection and privacy laws related to obtaining and managing personal data.
 
 
 # List Stories related to this theme
