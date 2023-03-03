@@ -14,5 +14,5 @@ The order history page is only accessible to authenticated customers.
 
 
 # List Stories related to this theme
-1. [As a website user, I want to be informed about the cookies used on the website and be given the option to accept or reject them.]()
-2. [As a website owner, I want to create a privacy policy that outlines how user data is collected, used, and protected on the website.]()
+1. [As a website user, I want to be informed about the cookies used on the website and be given the option to accept or reject them.](https://github.com/amm33/mywebclass-agile-docs/blob/b72c3c32f6f370d89589ded031ed7cfe658e6379/documentation/templates/theme/initiatives/epics/stories/story11.md)
+2. [As a website owner, I want to create a privacy policy that outlines how user data is collected, used, and protected on the website.](https://github.com/amm33/mywebclass-agile-docs/blob/8fb3bae3c23cb439da1deab58587aff43a7325cf/documentation/templates/theme/initiatives/epics/stories/story12.md)
