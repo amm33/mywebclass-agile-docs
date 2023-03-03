@@ -9,7 +9,6 @@ Goals:
 
 User Stories: 
 * As a website administrator, I want to integrate Google Analytics tracking code on all website pages, so that we can monitor website performance and user engagement.
-* As a website owner, I want to track the number of visitors to my website to better understand its popularity and reach.
 * As a website owner, I want to identify any opportunities for optimization or improvement on my website, such as by analyzing user behavior and identifying areas where people are dropping off or getting stuck
 
 Dependencies: 
@@ -33,5 +32,4 @@ Priority: High Priority
 
 # List stories related to this theme
 1. As a website administrator, I want to integrate Google Analytics tracking code on all website pages, so that we can monitor website performance and user engagement.
-2. As a website owner, I want to track the number of visitors to my website to better understand its popularity and reach.
-3. As a website owner, I want to identify any opportunities for optimization or improvement on my website, such as by analyzing user behavior and identifying areas where people are dropping off or getting stuck
+2. As a website owner, I want to identify any opportunities for optimization or improvement on my website, such as by analyzing user behavior and identifying areas where people are dropping off or getting stuck
