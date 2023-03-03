@@ -9,4 +9,4 @@ The order history page is only accessible to authenticated customers.
 
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [As a website administrator, I want to integrate Google Analytics tracking code on all website pages, so that we can monitor website performance and user engagement.](https://github.com/amm33/mywebclass-agile-docs/blob/f33f8c607287438fd60e93a620532d656ed4e3c1/documentation/templates/theme/initiatives/epics/stories/story8.md)
