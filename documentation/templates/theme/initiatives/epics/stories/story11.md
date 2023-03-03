@@ -11,4 +11,4 @@ The order history page is only accessible to authenticated customers.
 
 # List Stories related to this theme
 1. [As a website owner, I want to review the GDPR guidelines to ensure that the website is fully compliant with all regulations.](https://github.com/amm33/mywebclass-agile-docs/blob/cdee7200ff0a310b974bb5e16f00c12bb0c2874a/documentation/templates/theme/initiatives/epics/stories/story10.md)
-2. [As a website owner, I want to create a privacy policy that outlines how user data is collected, used, and protected on the website.]()
+2. [As a website owner, I want to create a privacy policy that outlines how user data is collected, used, and protected on the website.](https://github.com/amm33/mywebclass-agile-docs/blob/8fb3bae3c23cb439da1deab58587aff43a7325cf/documentation/templates/theme/initiatives/epics/stories/story12.md)
