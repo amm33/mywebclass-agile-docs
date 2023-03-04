@@ -17,12 +17,12 @@ Dependencies:
 * Access to data: The team responsible for monitoring website performance and user engagement must have access to the necessary data and analytics tools to perform their tasks.
 
 Risks: 
-* Risk: Inaccurate data due to misconfigured Google Analytics account
-Mitigation: Regularly review and audit Google Analytics settings to ensure proper tracking and data accuracy. Ensure that only authorized personnel have access to the account.
-* Risk: Poor data quality due to bot traffic or spam
-Mitigation: Implement filters and exclusion settings in Google Analytics to remove bot traffic and spam. Use third-party tools or services to detect and prevent spam.
+* Risk: Inaccurate data due to misconfigured Google Analytics account 
+* Mitigation: Regularly review and audit Google Analytics settings to ensure proper tracking and data accuracy. Ensure that only authorized personnel have access to the account.
+* Risk: Poor data quality due to bot traffic or spam 
+* Mitigation: Implement filters and exclusion settings in Google Analytics to remove bot traffic and spam; and to prevent attacks like SQL injections. Use third-party tools or services to detect and prevent spam.
 
-Estimated Effort: High 
+Estimated Effort: continuous - 1-2 hours weekly or biweekly depending on the team and resources 
 
 Business Value: 
 * Website can be optimized to better meet the needs and expectations of its users
