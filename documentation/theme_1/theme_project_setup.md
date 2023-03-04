@@ -7,9 +7,5 @@ Create and launch an educational website for teachers on software engineering an
 * [Implement DevOps practices to ensure smooth deployment and continuous integration](initiatives/initiative2.md)
 * [Ensure compliance with GDPR privacy regulations](initiatives/initiative3.md)
 
-* Monitoring to continuously improve the quality of our project
-  * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
-  * Project metrics to continuously improve the management of the project
-
 ## Test plan
 How will this be tested?
