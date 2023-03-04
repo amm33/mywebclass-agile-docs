@@ -6,6 +6,6 @@ By adopting DevOps practices, the website development team can automate process 
 * [We need to monitor website performance and user engagement using Google Analytics data to inform future development and updates.](../../templates/theme/initiatives/epics/epic5.md)
 ## Test plan
 How will this be tested?
-This can be tested uding automated testing. This includes: 
+This can be tested using automated testing. This includes: 
 * Unit tests 
-* Performance tests
+* Performance tests (checking speed, response time, reliability, resource usage, and scalability to eliminate performance bottlenecks)
